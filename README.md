@@ -1,7 +1,23 @@
-<div align="center">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Purple and Green Gradient</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            background: linear-gradient(45deg, purple, green);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
 
-</div>
-
+<body>
+    <h1>Gradient Background</h1>
 ###
 
 <div align="center">
@@ -78,3 +94,4 @@
 </div>
 
 ###
+</body>
