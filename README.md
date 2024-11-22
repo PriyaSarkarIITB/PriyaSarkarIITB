@@ -4,16 +4,7 @@
     <title>Priya Sarkar Profile</title>
     <style>
         body {
-            margin: 0;
-            min-height: 100vh;
             background: linear-gradient(45deg, purple, green);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            color: white;
-            font-family: Arial, sans-serif;
-            padding: 20px;
-            box-sizing: border-box;
         }
         .container {
             background: rgba(255, 255, 255, 0.1);
