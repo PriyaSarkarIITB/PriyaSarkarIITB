@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://img.pikbest.com/background/20220119/ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner_6231445.jpg!sw800"  />
+  <img src="https://img.pikbest.com/background/20220119/ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner_6231445.jpg!sw800"  />
 </div>
 
 ###
